@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "44dc3476_acc2ef3f",
+        "filename": "tools/LICENSES.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "Please change this line and the next one to say \"Service Management and Orchestration (SMO)\" and instead of near-RT RIC (RAN Intelligent Controller) platform and remove RICP.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7ae08aee_28112763",
+        "filename": "tools/oran-pkg-validation/CSAR-dest/LICENSES.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "Same changes as LICENSE.txt",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7e0f2b28_c478e259",
+        "filename": "tools/oran-pkg-validation/LICENSES.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "Same comment as the first LICENSE.txt file.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2126e9d9_b734653a",
+        "filename": "tools/oran-pkg-validation/unit-test/LICENSES.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "Same comment as above.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d693169c_325e8327",
+        "filename": "tools/oran-pkg-validation/unit-test/Tosca-error.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "I do not think you can backdate your claim on copyright. I would remove 2017- and just leave 2020.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "60b918f8_a7905ceb",
+        "filename": "tools/oran-pkg-validation/unit-test/validate.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "Same here.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "587c9cb1_2410a1a5",
+        "filename": "tools/oran-pkg-validation/unit-test/yaml-error.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "And here.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5f8ca7a5_3ab52ad7",
+        "filename": "tools/oran-pkg-validation/utils.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000382
+      },
+      "writtenOn": "2020-12-02T15:59:26Z",
+      "side": 1,
+      "message": "I assume you got this from the original file, i.e. the copyright statement from Intel.",
+      "revId": "6cbbb967beeb41565c92dc361d8dfb05d24e9dd4",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    }
+  ]
+}
